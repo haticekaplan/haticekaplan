@@ -1,4 +1,5 @@
 ## Hi there 👋
+I moved my GitHub Account, please check out my main account here => [https://github.com/hatyce](https://github.com/hatyce)
 
 <!--
 **haticekaplan/haticekaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
